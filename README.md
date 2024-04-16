@@ -1,77 +1,73 @@
-# ARCHIVED REPOSITORY
+<h1 align="center">👋 Hi there, I'm Sad!</h1>
 
-### https://github.com/aesthetic-org is our new home! Go and check it out!
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Science-Student-6f42c1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web%20Dev-Full%20Stack-3498db?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Enthusiast-DS%20|%20AI%20|%20ML-2ecc71?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Design-Graphic%20Designer-f39c12?style=for-the-badge">
+</p>
 
-# Aesthetic BOT
+<p align="center">🚀 I'm passionate about crafting digital experiences and exploring the realms of technology. Let's create something amazing together!</p>
 
-Aesthetic BOT (aesthetic-bot) is my first Discord bot, it's a general purpose bot. the to-do list can be found here: https://trello.com/b/RrA3avCJ/aesthetic-bot
+<br>
 
-Join my community discord server here https://discord.gg/7T24Mrw, it is not for the bot's development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devanshyadav2010&label=Profile%20views&color=3498db&style=plastic" alt="Devansh" />
+</p>
 
-# Bot Information
-- Language: **discord.js** *(node.js, javascript)*
-- Version: **in package.json**
-- Testing server: https://discord.gg/u69Jm4T
-- Dependencies: 
-  - **discord.js**
-  - **chalk**
-  - **dotenv**
-  - **js-yaml**
-  - nodemon *(optional)*
 
-*running `npm start` will get those for you*
+## 🚀 Tech Stack
 
-# Installation
+### Languages
+<p align="center"> 
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white&style=for-the-badge">
+</p>
 
-### Before you start:
-1. Go to https://discord.com/developers/applications
-2. Create an application and give it a name *(and a profile picture if you want)*
-3. On the side click on `Bot` and click `New Bot`
-4. Copy the bot token and save it for later ***(DO NOT SHARE THE TOKEN WITH ANYONE)***
-5. Make sure you have node.js v.12 installed *(https://nodejs.org/)*
-6. Invite the bot in your discord server with this link:
-```
-https://discord.com/api/oauth2/authorize?client_id=CLIENT ID HERE&permissions=8&scope=bot%20applications.commands
-```
-*change `CLIENT ID HERE` make sure you keep `&permissions=8&scope=bot%20applications.commands` after the `Client ID`*
+### Frontend Development
+<p align="center"> 
+  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black&style=for-the-badge">
+</p>
 
-### If hosted on local machine or server:
-1. Download your desired version
-2. Create a `.env` file with the following inside:
-```
-DISCORD_TOKEN=(BOT TOKEN)
-```
-*replace `(BOT TOKEN)` with your own Discord bot token that you got earlier from the Discord developer portal*
+### Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge">
+</p>
 
-3. Open up terminal *(or cmd)*
-4. Run `cd <file path to bot folder>`
-5. If directory `node_modules` exisits, delete it
-6. Run `npm start`
+### Databases & Cloud Hosting
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MongoDB-47a248?logo=mongodb&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge">
+</p>
 
-*steps 3-5 if self-hosted, otherwise see below*
+### Designing
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00c4cc?logo=Canva&logoColor=white&style=for-the-badge">
+</p>
 
-*run `npm test` to run the bot with nodemon*
+### Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-f05033?logo=git&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-fe7a16?logo=stack-overflow&logoColor=white&style=for-the-badge">
+</p>
 
-### If hosted on Heroku:
-1. Fork this repository
-2. Create a Heroku account
-3. Create an application
-4. Go to deploy and click GitHub
-5. Connect your GitHub account and select the fork you created (turn on automatic deploys)
-6. Since the bot is ready to be hosted with Heroku, you just need to turn off `web` and turn on the `worker` under `Resources`
+## 📈 GitHub Stats
 
-*Procfile already exists*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshyadav2010&show_icons=true&count_private=true&theme=radical" alt="Devansh's GitHub Stats" />
+</p>
 
-# Configuration
+## 📫 Let's Connect
 
-### Information
-- Config file: config.yaml
-- Lang file: *comming soon...*
-
-# Other Information
-
-### About releases:
-Please only get releases from the side under "Realeases" on the side.
-
-### About redistribution/reselling:
-Please check the `LICENSE` file.
+<p align="center">
+  <a href="https://treobot.tk/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="mailto:dev8adam576@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/devanshyadav2010" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.youtube.com/channel/DEVILADAMGAMING" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+</p>
